@@ -1,4 +1,4 @@
-https://app.powerbi.com/reportEmbed?reportId=3f0a1d52-e4b9-4e2d-82f2-10e333194e44&autoAuth=true&ctid=d158047f-8d8c-4f55-bb71-5a294402c7d0
+Project Link =  https://app.powerbi.com/reportEmbed?reportId=3f0a1d52-e4b9-4e2d-82f2-10e333194e44&autoAuth=true&ctid=d158047f-8d8c-4f55-bb71-5a294402c7d0
 <p align="center">
   <img src="https://github.com/amu5236/PowerBI-Dashboard-Mobile-sales-data/blob/main/banner.jpg" alt="banner" style="width:100%; max-width:1200px;">
 </p>
